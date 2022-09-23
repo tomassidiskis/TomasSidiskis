@@ -1,6 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Tomas👋
 
-<!--
+I'm a junior analytics engineer. I mainly write code with SQL and Python, occasionally I do HTML, and currently I am learning more about Python and machine learning.
+
+Here is some of the stuff I enjoy doing:
+* Time series analysis and forecasting
+* Work with data and APIs
+* Code with SQL and Python
+* Data visualization
+
 **tomassidiskis/TomasSidiskis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
