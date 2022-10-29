@@ -1,6 +1,6 @@
 ### Hi there, I'm Tomas👋
 
-I'm a junior analytics engineer. I mainly write code with SQL and Python, occasionally I do HTML, and currently I am learning more about Python and machine learning.
+I'm a junior analytics engineer. I mainly write code with SQL and Python, occasionally I do tableau visualizations, and currently I am learning more about Python and machine learning.
 
 Here is some of the stuff I enjoy doing:
 * Time series analysis and forecasting
