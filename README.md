@@ -7,6 +7,7 @@ Here is some of the stuff I enjoy doing:
 * Work with data and APIs
 * Code with SQL and Python
 * Data visualization
+* Data engineering
 
 🔗 &nbsp;**I am also on:**
 <p align="left">
