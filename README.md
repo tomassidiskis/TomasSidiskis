@@ -8,6 +8,7 @@ Here is some of the stuff I enjoy doing:
 * Code with SQL and Python
 * Data visualization
 * Data engineering
+* Machine learning
 
 🔗 &nbsp;**I am also on:**
 <p align="left">
