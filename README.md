@@ -10,7 +10,7 @@ Here is some of the stuff I enjoy doing:
 * Data engineering
 * Machine learning
 
-🔗 &nbsp;**I am also on:**
+ &nbsp;**I am also on:**
 <p align="left">
 <a href="https://www.linkedin.com/in/tomas-sidiskis/" target="blank"><img align="center" src="https://github.com/tomassidiskis/TomasSidiskis/blob/main/linked-in-alt.svg" alt="ramikrispin" height="30" width="40" /></a>
 
