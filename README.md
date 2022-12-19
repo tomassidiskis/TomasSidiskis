@@ -1,5 +1,5 @@
 ### Hi there, I'm Tomas👋
-
+ 
 I'm a analytics engineer. I mainly write code with SQL and Python, occasionally I do tableau visualizations, and currently I am learning more about Python and machine learning.
 
 Here is some of the stuff I enjoy doing:
