@@ -13,4 +13,4 @@ Here is some of the stuff I enjoy doing:
  &nbsp;**I am also on:**
 <p align="left">
 <a href="https://www.linkedin.com/in/tomas-sidiskis/" target="blank"><img align="center" src="https://github.com/tomassidiskis/TomasSidiskis/blob/main/linked-in-alt.svg" alt="ramikrispin" height="30" width="40" /></a>
-
+<a href="https://public.tableau.com/app/profile/tomassidiskis" target="blank"><img align="center" src="https://github.com/tomassidiskis/TomasSidiskis/blob/main/tab.png" alt="ramikrispin" height="30" width="40" /></a>
