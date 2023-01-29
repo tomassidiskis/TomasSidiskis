@@ -15,4 +15,4 @@ Here is some of the stuff I enjoy doing:
 <a href="https://www.linkedin.com/in/tomas-sidiskis/" target="blank"><img align="center" src="https://github.com/tomassidiskis/TomasSidiskis/blob/main/linked-in-alt.svg" alt="tomassidiskis" height="42" width="28" /></a>
 <a href="https://public.tableau.com/app/profile/tomassidiskis" target="blank"><img align="center" src="https://github.com/tomassidiskis/TomasSidiskis/blob/main/tab.png" alt="tomassidiskis" height="50" width="72" /></a>
 <a href="https://www.novypro.com/profile_projects/tomas" target="blank"><img align="center" src="https://github.com/tomassidiskis/TomasSidiskis/blob/main/powerbi.png" alt="tomassidiskis" height="37" width="40" /></a>
-<a href="https://www.datacamp.com/profile/tomassidiskis" target="blank"><img align="center" src="https://github.com/tomassidiskis/TomasSidiskis/blob/main/datacamp" alt="tomassidiskis" height="37" width="39" /></a>
+<a href="https://www.datacamp.com/profile/tomassidiskis" target="blank"><img align="center" src="https://github.com/tomassidiskis/TomasSidiskis/blob/main/datacamp" alt="tomassidiskis" height="37" width="38" /></a>
