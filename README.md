@@ -1,6 +1,6 @@
 ### Hi there, I'm Tomas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
-I'm a Analytics Engineer. I mainly write code with SQL and Python, occasionally I do Tableau visualizations, and currently I am learning more about Python and machine learning.
+I'm a Analytics Engineer. I mainly write code with Python and SQL, occasionally I do Tableau visualizations, and currently I am learning more about Python and machine learning.
 
 Here is some of the stuff I enjoy doing:
 * Time series analysis and forecasting
