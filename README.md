@@ -6,7 +6,6 @@ Here is some of the stuff I enjoy doing:
 * Time series analysis and forecasting
 * Work with data and APIs
 * Code with SQL and Python
-* Data visualization
 * Data engineering
 * Machine learning
 
